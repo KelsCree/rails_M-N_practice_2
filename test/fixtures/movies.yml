@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  actor: one
+  director: one
+
+two:
+  title: MyString
+  actor: two
+  director: two
